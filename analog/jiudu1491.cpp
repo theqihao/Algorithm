@@ -6,7 +6,6 @@
 #include <cmath>
 #include <map>
 #include <string.h>
-#define N 200005
 
 using namespace std;
 
