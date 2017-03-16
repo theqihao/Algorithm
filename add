@@ -1,4 +1,4 @@
-echo $*
+str=$*
 git add *
-git commit * -m $*
+git commit * -m str
 git push origin master
