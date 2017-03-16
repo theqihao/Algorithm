@@ -1,4 +1,4 @@
-echo "xxx"
+echo $2
 git add *
 git commit * -m "add"
 git push origin master
